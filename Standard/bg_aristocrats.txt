@@ -1,0 +1,27 @@
+4 Evolving Wilds
+7 Forest
+4 Jungle Hollow
+2 Llanowar Wastes
+2 Rogue's Passage
+6 Swamp
+4 Blisterpod
+4 Bone Splinters
+4 Catacomb Sifter
+1 Evolutionary Leap
+2 Grim Haruspex
+2 Hangarback Walker
+2 Murderous Cut
+2 Nantuko Husk
+4 Rot Shambler
+2 Smothering Abomination
+2 Sultai Emissary
+1 Tasigur, the Golden Fang
+1 Whisperwood Elemental
+4 Zulaport Cutthroat
+Sideboard:
+
+3 Caustic Caterpillar
+3 Cranial Archive
+3 Duress
+4 Jaddi Offshoot
+2 Ultimate Price
