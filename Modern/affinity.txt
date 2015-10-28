@@ -21,12 +21,11 @@ Sideboard:
 
 2 Ancient Grudge
 1 Dismember
-1 Ethersworn Canonist
 1 Ghirapur Aether Grid
 1 Grafdigger's Cage
 1 Illness in the Ranks
 1 Relic of Progenitus
-1 Spell Pierce
+2 Spell Pierce
 1 Spellskite
 2 Thoughtseize
 1 Wear // Tear
